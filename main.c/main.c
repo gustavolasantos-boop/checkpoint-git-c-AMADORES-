@@ -2,6 +2,8 @@
 int main(){
     printf("Gustavo Lima Andrade Santos");
     printf("\n");
+    printf("Errar faz parte");
+    printf("\n");
     printf("Gabriel Camarosani Gouvea Gonçalves da Silva");
     printf("08/07/2007");
     printf("\n");
