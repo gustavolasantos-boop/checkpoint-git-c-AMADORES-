@@ -13,5 +13,6 @@ int main(){
     printf("Matheus Pimenta Martini");
     printf("Amanhã não tem aula professor!");
     printf("\n");
+    printf("Gabriel Carvalho Nascimento");
     return 0;
 }
