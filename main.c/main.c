@@ -9,5 +9,6 @@ int main(){
     printf("sextou");
     printf("\n");
     printf("Matheus Pimenta Martini");
+    printf("Amanhã não tem aula professor!");
     return 0;
 }
